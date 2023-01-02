@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <CountryId>1</CountryId>
+    <CountryName>India</CountryName>
+  </Table>
+  <Table>
+    <CountryId>2</CountryId>
+    <CountryName>Sri Lanka</CountryName>
+  </Table>
+  <Table>
+    <CountryId>3</CountryId>
+    <CountryName>Pakistan</CountryName>
+  </Table>
+  <Table>
+    <CountryId>4</CountryId>
+    <CountryName>USA</CountryName>
+  </Table>
+  <Table>
+    <CountryId>5</CountryId>
+    <CountryName>Russia</CountryName>
+  </Table>
+  <Table>
+    <CountryId>6</CountryId>
+    <CountryName>China</CountryName>
+  </Table>
+  <Table>
+    <CountryId>7</CountryId>
+    <CountryName>Japan</CountryName>
+  </Table>
+  <Table>
+    <CountryId>8</CountryId>
+    <CountryName>Brazil</CountryName>
+  </Table>
+</NewDataSet>
